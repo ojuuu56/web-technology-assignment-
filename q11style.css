@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(to right, #ffccff, #ccffff);
+    padding: 20px;
+}
+
+h1 {
+    color: #ff0066;
+    text-align: center;
+}
+
+h2 {
+    color: #0066cc;
+    margin-top: 20px;
+    border-bottom: 2px solid #ff66cc;
+    padding-bottom: 5px;
+}
+
+p {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+/* Example paragraphs to simulate different CSS types */
+.inline-example {
+    background-color: #ffe6e6;
+    border: 2px solid #ff3333;
+    color: #990000;
+}
+
+.internal-example {
+    background-color: #e6f7ff;
+    border: 2px solid #3399ff;
+    color: #004d99;
+}
+
+.external-example {
+    background-color: #fff3e6;
+    border: 2px solid #ff6600;
+    color: #cc3300;
+}
